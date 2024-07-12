@@ -1,9 +1,3 @@
-$e^{\mathrm{~ALDNet}}$
-
-Introduction
-
-This repository is for the PAPER: ALDNet: A two-stage method for apple leaf disease spot image segmentation in complex environments.
-
 # ALDNet
 ALDNet: A two-stage method for apple leaf disease spot image segmentation in complex environments.
 
