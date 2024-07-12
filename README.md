@@ -1,7 +1,7 @@
 # ALDNet
 
 ## Introduction
-This repository is for the PAPER: 
+This repository is for the paper: 
 ***ALDNet: A two-stage method for apple leaf disease spot image segmentation in complex environments.***
 
 ## TS-ATLDSD dataset download
