@@ -1,5 +1,16 @@
 # ALDNet
-ALDNet: A two-stage method for apple leaf disease spot image segmentation in complex environments.
+## Introduction
+This repository is for the PAPER: __ALDNet: A two-stage method for apple leaf disease spot image segmentation in complex environments.__
 
-# res2net pretrained weights download
+## TS-ATLDSD dataset download
+
+
+## res2net pre-trained weights download
 https://drive.google.com/file/d/1CwY_O4JCWVtBi-crUgTpnPzgYoJJ7_kv/view?usp=drive_link
+
+## Prerequisites
+torch==1.2.0
+torchvision==0.4.0
+
+## Reference
+https://github.com/bubbliiiing/unet-pytorch
