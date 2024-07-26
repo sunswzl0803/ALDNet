@@ -7,10 +7,5 @@ This repository is for the paper:
 ## TS-ATLDSD dataset download
 https://drive.google.com/drive/folders/1IQJ58v-DcWee9PVU4xymBAXhjJyIYCB4?usp=drive_link
 
-## Prerequisites
-torch==1.2.0
-
-torchvision==0.4.0
-
 ## Reference
 https://github.com/bubbliiiing/unet-pytorch
